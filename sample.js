@@ -1,2 +1,3 @@
 console.log('岡本健太');
-console.log('おかもとけんた');
+console.log('おかもと　けんた');
+console.log('KENTA OKAMOTO');
